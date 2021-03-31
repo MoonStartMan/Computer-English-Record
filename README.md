@@ -6,7 +6,7 @@ Words that you don't know in your study or work.
 
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
-| | | |
+| aligned | v. 结盟；支持；使成一直线；校准；安放，排列；使一致（align 的过去式和过去分词）| |
 
 ## B
 
@@ -18,19 +18,22 @@ Words that you don't know in your study or work.
 
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
-| | | |
+| conversion | n. 转换;变换; | |
+| construct | v.建造，修建，组成，绘制，编制 n.构想，概念，结构体 | | 
 
 ## D
 
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
-| | | |
+| declares | vt.宣布，声明; 断言，宣称 vi.声明，宣布 | |
+| deprecated | v.启用 | |
+| deployment | n. 调度、部署 | |
 
 ## E
 
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
-| | | |
+| exactly | adv. 恰好地；正是；精确地；正确地 | |
 
 ## F
 
@@ -54,7 +57,8 @@ Words that you don't know in your study or work.
 
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
-| | | |
+| info | n.信息、情报 | |
+| Incompatible | adj. 不相容的；矛盾的；不能同时成立的 n. 互不相容的人或事物 | |
 
 ## J
 
@@ -96,7 +100,7 @@ Words that you don't know in your study or work.
 
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
-| | | |
+| paragraph | n. 段落；短评；段落符号 vt. 将…分段 | |
 
 ## Q
 
@@ -114,7 +118,7 @@ Words that you don't know in your study or work.
 
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
-| | | |
+| Specify | vt. 指定；详细说明；列举；把…列入说明书 | |
 
 ## T
 
@@ -132,7 +136,8 @@ Words that you don't know in your study or work.
 
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
-| | | |
+| Visually | adv. 形象化地；外表上；看得见地 | |
+
 
 ## W
 
