@@ -7,6 +7,7 @@ Words that you don't know in your study or work.
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
 | aligned | v. 结盟；支持；使成一直线；校准；安放，排列；使一致（align 的过去式和过去分词）| |
+| assign | vt. 分配；指派；[计][数] 赋值 vi. 将财产过户（尤指过户给债权人）| |
 
 ## B
 
@@ -19,7 +20,9 @@ Words that you don't know in your study or work.
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
 | conversion | n. 转换;变换; | |
-| construct | v.建造，修建，组成，绘制，编制 n.构想，概念，结构体 | | 
+| construct | v.建造，修建，组成，绘制，编制 n.构想，概念，结构体 | |
+| character | n. 性格，品质；特性；角色；[计] 字符 vt. 印，刻；使具有特征 | |
+| coins | n. 硬币 | |
 
 ## D
 
@@ -28,6 +31,7 @@ Words that you don't know in your study or work.
 | declares | vt.宣布，声明; 断言，宣称 vi.声明，宣布 | |
 | deprecated | v.启用 | |
 | deployment | n. 调度、部署 | |
+| distribute | vt. 分配；散布；分开；把…分类 | |
 
 ## E
 
@@ -112,13 +116,15 @@ Words that you don't know in your study or work.
 
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
-| | | |
+| residence | n. 住宅，住处；居住 | |
 
 ## S
 
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
 | Specify | vt. 指定；详细说明；列举；把…列入说明书 | |
+| species | n. [生物] 物种；种类 adj. 物种上的 | |
+| symbol | n. 象征；符号；标志 | |
 
 ## T
 
