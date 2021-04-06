@@ -13,7 +13,7 @@ Words that you don't know in your study or work.
 
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
-| | | |
+| base | n. 基底；基础；基地；基本成分；碱；（晶体管的）基极；词根；（数系的）基数；（棒球）垒 adj. 卑鄙的；低劣的 v. 以……作基础；将……的活动中心设在某地 | |
 
 ## C
 
@@ -23,6 +23,10 @@ Words that you don't know in your study or work.
 | construct | v.建造，修建，组成，绘制，编制 n.构想，概念，结构体 | |
 | character | n. 性格，品质；特性；角色；[计] 字符 vt. 印，刻；使具有特征 | |
 | coins | n. 硬币 | |
+| chips | n. [食品] 炸土豆条；小木片；（作赌注用的）圆形筹码；缺口 | |
+| consecutive | adj. 连贯的；连续不断的 | |
+| conform | vi. 符合；遵照；适应环境 vt. 使遵守；使一致；使顺从 adj. 一致的；顺从的 | |
+
 
 ## D
 
@@ -32,12 +36,18 @@ Words that you don't know in your study or work.
 | deprecated | v.启用 | |
 | deployment | n. 调度、部署 | |
 | distribute | vt. 分配；散布；分开；把…分类 | |
+| deposit | n. 存款；押金；订金；保证金；沉淀物 vt. 使沉积；存放 vi. 沉淀 | |
+| decimal | adj. 小数的；十进位的 n. 小数 | |
+| digit | n. 数字；手指或足趾；一指宽 | |
+| dice | n. 骰子;掷骰游戏;小块食物 v. 将（食物等）切成丁;掷骰子;（非正式）拒绝 | |
+
 
 ## E
 
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
 | exactly | adv. 恰好地；正是；精确地；正确地 | |
+| expression | n. 表现，表示，表达；表情，脸色，态度，腔调，声调；式，符号；词句，语句，措辞，说法 | |
 
 ## F
 
@@ -49,7 +59,7 @@ Words that you don't know in your study or work.
 
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
-| | | |
+| generator | n. 发电机；发生器；生产者 |  |
 
 ## H
 
@@ -63,6 +73,9 @@ Words that you don't know in your study or work.
 | ---- | ---- | ----|
 | info | n.信息、情报 | |
 | Incompatible | adj. 不相容的；矛盾的；不能同时成立的 n. 互不相容的人或事物 | |
+| invalid | adj. 无效的；有病的；残疾的 n. 病人；残疾者 vt. 使伤残；使退役 vi. 变得病弱；因病而奉命退役 | |
+| inventory | n. 存货，存货清单；详细目录；财产清册 vt. 给……开列清单 | |
+| implicitly | adv. 含蓄地；暗中地 | |
 
 ## J
 
@@ -80,19 +93,20 @@ Words that you don't know in your study or work.
 
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
-| | | |
+| ladder | n. 阶梯；途径；梯状物 vi. 成名；发迹 vt. 在……上装设梯子 |  |
 
 ## M
 
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
-| | | |
+| machine | n. 机械，机器；机构；机械般工作的人 vt. 用机器制造 | |
+| memberwise | n.成员;会员 | |
 
 ## N
 
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
-| | | |
+| negative | adj. [数] 负的；消极的；否定的；阴性的 n. 否定；负数；[摄] 底片 vt. 否定；拒绝 | |
 
 ## O
 
@@ -105,6 +119,7 @@ Words that you don't know in your study or work.
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
 | paragraph | n. 段落；短评；段落符号 vt. 将…分段 | |
+| prefix | n. 前缀 vt. 加前缀；将某事物加在前面 | |
 
 ## Q
 
@@ -125,12 +140,15 @@ Words that you don't know in your study or work.
 | Specify | vt. 指定；详细说明；列举；把…列入说明书 | |
 | species | n. [生物] 物种；种类 adj. 物种上的 | |
 | symbol | n. 象征；符号；标志 | |
+| snack | n. 小吃，点心；快餐；易办到的事，小事一桩 v. 吃点心（或快餐、小吃）| |
+| scope | n. 范围；余地；视野；眼界；导弹射程 vt. 审视 | |
+| statements | n. 声明；报告；陈述句；状态说明 | |
 
 ## T
 
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
-| | | |
+| textual | adj.本文的; 按原文的 |  |
 
 ## U
 
@@ -143,13 +161,13 @@ Words that you don't know in your study or work.
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
 | Visually | adv. 形象化地；外表上；看得见地 | |
-
+| vending | n. 销售 | |
 
 ## W
 
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
-| | | |
+| wise | adj. 明智的；聪明的；博学的 vt. 使知道；教导 vi. 了解 | |
 
 ## X
 
