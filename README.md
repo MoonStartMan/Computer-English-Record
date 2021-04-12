@@ -8,6 +8,7 @@ Words that you don't know in your study or work.
 | ---- | ---- | ----|
 | aligned | v. 结盟；支持；使成一直线；校准；安放，排列；使一致（align 的过去式和过去分词）| |
 | assign | vt. 分配；指派；[计][数] 赋值 vi. 将财产过户（尤指过户给债权人）| |
+| associated | adj. 关联的；联合的 v. 联系（associate的过去式和过去分词）| |
 
 ## B
 
@@ -26,6 +27,7 @@ Words that you don't know in your study or work.
 | chips | n. [食品] 炸土豆条；小木片；（作赌注用的）圆形筹码；缺口 | |
 | consecutive | adj. 连贯的；连续不断的 | |
 | conform | vi. 符合；遵照；适应环境 vt. 使遵守；使一致；使顺从 adj. 一致的；顺从的 | |
+| container | n. 集装箱；容器| |
 
 
 ## D
@@ -60,6 +62,7 @@ Words that you don't know in your study or work.
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
 | generator | n. 发电机；发生器；生产者 |  |
+| guard | n. 守卫；警戒；护卫队；防护装置 vi. 警惕 vt. 保卫；监视 | |
 
 ## H
 
@@ -76,6 +79,8 @@ Words that you don't know in your study or work.
 | invalid | adj. 无效的；有病的；残疾的 n. 病人；残疾者 vt. 使伤残；使退役 vi. 变得病弱；因病而奉命退役 | |
 | inventory | n. 存货，存货清单；详细目录；财产清册 vt. 给……开列清单 | |
 | implicitly | adv. 含蓄地；暗中地 | |
+| initial | adj. 最初的；开始的；第一的 | |
+
 
 ## J
 
@@ -120,6 +125,7 @@ Words that you don't know in your study or work.
 | ---- | ---- | ----|
 | paragraph | n. 段落；短评；段落符号 vt. 将…分段 | |
 | prefix | n. 前缀 vt. 加前缀；将某事物加在前面 | |
+| previous | adj.以前的; 早先的; 过早的; adv.在先;在...之前 |  |
 
 ## Q
 
@@ -132,6 +138,7 @@ Words that you don't know in your study or work.
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
 | residence | n. 住宅，住处；居住 | |
+| reduce | vt.减少;降低;使处于;把...分解 vi.减少; 缩小; 归纳为 | |
 
 ## S
 
@@ -143,6 +150,8 @@ Words that you don't know in your study or work.
 | snack | n. 小吃，点心；快餐；易办到的事，小事一桩 v. 吃点心（或快餐、小吃）| |
 | scope | n. 范围；余地；视野；眼界；导弹射程 vt. 审视 | |
 | statements | n. 声明；报告；陈述句；状态说明 | |
+| stub | n.存根;烟蒂;树桩;断株 vt.踩熄;连根拔除 | |
+| sort | n. 种类；方式；品质；[计]（资料、数据的）分类，排序 vi. 分类；协调；交往 vt. 将…分类；将…排序；挑选出某物 |  |
 
 ## T
 
