@@ -9,12 +9,15 @@ Words that you don't know in your study or work.
 | aligned | v. 结盟；支持；使成一直线；校准；安放，排列；使一致（align 的过去式和过去分词）| |
 | assign | vt. 分配；指派；[计][数] 赋值 vi. 将财产过户（尤指过户给债权人）| |
 | associated | adj. 关联的；联合的 v. 联系（associate的过去式和过去分词）| |
+| automatically | adv. 自动地; 机械地; 无意识地; adj. 不经思索的 | |
+|	assigning | v. 分配,分派(工作); 指定; 委派; 确定(价值、时间等); 把......归因于; 转让 | |
 
 ## B
 
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
 | base | n. 基底；基础；基地；基本成分；碱；（晶体管的）基极；词根；（数系的）基数；（棒球）垒 adj. 卑鄙的；低劣的 v. 以……作基础；将……的活动中心设在某地 | |
+| binary | adj. [数] 二进制的；二元的，二态的 | |
 
 ## C
 
@@ -126,6 +129,8 @@ Words that you don't know in your study or work.
 | paragraph | n. 段落；短评；段落符号 vt. 将…分段 | |
 | prefix | n. 前缀 vt. 加前缀；将某事物加在前面 | |
 | previous | adj.以前的; 早先的; 过早的; adv.在先;在...之前 |  |
+| platform | n. 平台；月台，站台；坛；讲台；厚底松糕鞋| |
+| prompt | v. 提示，鼓励；促进；激起；导致；（给演员）提白 adj. 敏捷的，迅速的；立刻的，及时的；准时的；（商品）即期要送的 n. 提示，提词；（电脑屏幕上的）提示符；鼓励；催促；付款期限 adv. 准时地 | |
 
 ## Q
 
@@ -152,12 +157,14 @@ Words that you don't know in your study or work.
 | statements | n. 声明；报告；陈述句；状态说明 | |
 | stub | n.存根;烟蒂;树桩;断株 vt.踩熄;连根拔除 | |
 | sort | n. 种类；方式；品质；[计]（资料、数据的）分类，排序 vi. 分类；协调；交往 vt. 将…分类；将…排序；挑选出某物 |  |
+| specified | adj. 规定的；详细说明的 | |
 
 ## T
 
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
 | textual | adj.本文的; 按原文的 |  |
+| target | n. 目标，指标；（攻击的）对象；靶子 v. 把……作为目标；面向，对准（某群体）| |
 
 ## U
 
