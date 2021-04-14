@@ -53,6 +53,7 @@ Words that you don't know in your study or work.
 | ---- | ---- | ----|
 | exactly | adv. 恰好地；正是；精确地；正确地 | |
 | expression | n. 表现，表示，表达；表情，脸色，态度，腔调，声调；式，符号；词句，语句，措辞，说法 | |
+| enlarge | vi. 扩大；放大；详述 vt. 扩大；使增大；扩展 | |
 
 ## F
 
