@@ -31,6 +31,7 @@ Words that you don't know in your study or work.
 | consecutive | adj. 连贯的；连续不断的 | |
 | conform | vi. 符合；遵照；适应环境 vt. 使遵守；使一致；使顺从 adj. 一致的；顺从的 | |
 | container | n. 集装箱；容器| |
+| crash | v. 碰撞；（使）坠毁；（使）摔碎；使发出巨响；（金融企业等）破产；（机器、系统等）崩溃；（比赛中）惨败；（在临时安排的地方）入睡；心脏停止跳动；擅自闯入 n. （交通工具）坠毁；碰撞声；暴跌；（机器、系统的）崩溃；睡觉；粗棉布 adj. 应急的，速成的 adv. 哗啦一声地 |  |
 
 
 ## D
@@ -84,6 +85,8 @@ Words that you don't know in your study or work.
 | inventory | n. 存货，存货清单；详细目录；财产清册 vt. 给……开列清单 | |
 | implicitly | adv. 含蓄地；暗中地 | |
 | initial | adj. 最初的；开始的；第一的 | |
+| initialized | v. （使）初始化；预置传授 | |
+| issue | n. 问题；流出；期号；发行物 vt. 发行，发布；发给；放出，排出 vi. 发行；流出；造成……结果；传下 | |
 
 
 ## J
@@ -110,6 +113,7 @@ Words that you don't know in your study or work.
 | ---- | ---- | ----|
 | machine | n. 机械，机器；机构；机械般工作的人 vt. 用机器制造 | |
 | memberwise | n.成员;会员 | |
+| manually | adv. 手动地；用手 | |
 
 ## N
 
@@ -121,7 +125,7 @@ Words that you don't know in your study or work.
 
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
-| | | |
+| overlay | v. 覆在……上面（overlie 的过去式）；覆盖，铺；（尤指以感情或品质）撒满；（声音）盖过 n. 套图透明膜；覆盖图；覆盖物，涂层；覆盖；附加的特性 | |
 
 ## P
 
@@ -132,6 +136,7 @@ Words that you don't know in your study or work.
 | previous | adj.以前的; 早先的; 过早的; adv.在先;在...之前 |  |
 | platform | n. 平台；月台，站台；坛；讲台；厚底松糕鞋| |
 | prompt | v. 提示，鼓励；促进；激起；导致；（给演员）提白 adj. 敏捷的，迅速的；立刻的，及时的；准时的；（商品）即期要送的 n. 提示，提词；（电脑屏幕上的）提示符；鼓励；催促；付款期限 adv. 准时地 | |
+| preview | n. 预览；试映；事先查看 vt. 预览；预演；事先查看| |
 
 ## Q
 
