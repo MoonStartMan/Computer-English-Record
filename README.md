@@ -87,6 +87,7 @@ Words that you don't know in your study or work.
 | initial | adj. 最初的；开始的；第一的 | |
 | initialized | v. （使）初始化；预置传授 | |
 | issue | n. 问题；流出；期号；发行物 vt. 发行，发布；发给；放出，排出 vi. 发行；流出；造成……结果；传下 | |
+| instead | adv. 代替；反而；相反 | |
 
 
 ## J
