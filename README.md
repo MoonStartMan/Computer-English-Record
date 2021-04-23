@@ -138,6 +138,7 @@ Words that you don't know in your study or work.
 | platform | n. 平台；月台，站台；坛；讲台；厚底松糕鞋| |
 | prompt | v. 提示，鼓励；促进；激起；导致；（给演员）提白 adj. 敏捷的，迅速的；立刻的，及时的；准时的；（商品）即期要送的 n. 提示，提词；（电脑屏幕上的）提示符；鼓励；催促；付款期限 adv. 准时地 | |
 | preview | n. 预览；试映；事先查看 vt. 预览；预演；事先查看| |
+| parameter | n. 参数；系数；参量 | |
 
 ## Q
 
