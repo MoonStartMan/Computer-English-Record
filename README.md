@@ -32,6 +32,7 @@ Words that you don't know in your study or work.
 | conform | vi. 符合；遵照；适应环境 vt. 使遵守；使一致；使顺从 adj. 一致的；顺从的 | |
 | container | n. 集装箱；容器| |
 | crash | v. 碰撞；（使）坠毁；（使）摔碎；使发出巨响；（金融企业等）破产；（机器、系统等）崩溃；（比赛中）惨败；（在临时安排的地方）入睡；心脏停止跳动；擅自闯入 n. （交通工具）坠毁；碰撞声；暴跌；（机器、系统的）崩溃；睡觉；粗棉布 adj. 应急的，速成的 adv. 哗啦一声地 |  |
+| coerced | 强制，强迫，胁迫，迫使（coerce的过去式和过去分词） |  |
 
 
 ## D
@@ -88,6 +89,7 @@ Words that you don't know in your study or work.
 | initialized | v. （使）初始化；预置传授 | |
 | issue | n. 问题；流出；期号；发行物 vt. 发行，发布；发给；放出，排出 vi. 发行；流出；造成……结果；传下 | |
 | instead | adv. 代替；反而；相反 | |
+| interpolation | n. 插入；篡改；填写；插值 | |
 
 
 ## J
