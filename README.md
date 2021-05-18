@@ -170,6 +170,7 @@ Words that you don't know in your study or work.
 | sort | n. 种类；方式；品质；[计]（资料、数据的）分类，排序 vi. 分类；协调；交往 vt. 将…分类；将…排序；挑选出某物 |  |
 | specified | adj. 规定的；详细说明的 | |
 | symmetric | adj. 对称的；匀称的 | |
+| subtracting | 减法 | |
 
 ## T
 
@@ -182,7 +183,7 @@ Words that you don't know in your study or work.
 
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
-| | | |
+|union | n. 联盟，协会；工会；联合 | |
 
 ## V
 
