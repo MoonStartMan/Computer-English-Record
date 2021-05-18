@@ -90,6 +90,7 @@ Words that you don't know in your study or work.
 | issue | n. 问题；流出；期号；发行物 vt. 发行，发布；发给；放出，排出 vi. 发行；流出；造成……结果；传下 | |
 | instead | adv. 代替；反而；相反 | |
 | interpolation | n. 插入；篡改；填写；插值 | |
+| intersection | n. 交叉；十字路口；交集；交叉点 | |
 
 
 ## J
@@ -168,6 +169,7 @@ Words that you don't know in your study or work.
 | stub | n.存根;烟蒂;树桩;断株 vt.踩熄;连根拔除 | |
 | sort | n. 种类；方式；品质；[计]（资料、数据的）分类，排序 vi. 分类；协调；交往 vt. 将…分类；将…排序；挑选出某物 |  |
 | specified | adj. 规定的；详细说明的 | |
+| symmetric | adj. 对称的；匀称的 | |
 
 ## T
 
