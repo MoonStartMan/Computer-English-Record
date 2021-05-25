@@ -145,6 +145,7 @@ Words that you don't know in your study or work.
 | preview | n. 预览；试映；事先查看 vt. 预览；预演；事先查看| |
 | parameter | n. 参数；系数；参量 | |
 | preview | n. 预览；试映；事先查看 vt. 预览；预演；事先查看 | |
+| popover | n. 空心（酥脆）松饼，膨松饼 | | 
 
 ## Q
 
