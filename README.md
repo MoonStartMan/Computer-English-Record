@@ -18,6 +18,7 @@ Words that you don't know in your study or work.
 | ---- | ---- | ----|
 | base | n. 基底；基础；基地；基本成分；碱；（晶体管的）基极；词根；（数系的）基数；（棒球）垒 adj. 卑鄙的；低劣的 v. 以……作基础；将……的活动中心设在某地 | |
 | binary | adj. [数] 二进制的；二元的，二态的 | |
+| bubble | n. 气泡，泡沫，泡状物；透明圆形罩，圆形顶 vi. 沸腾，冒泡；发出气泡声 vt. 使冒泡；滔滔不绝地说 | |
 
 ## C
 
@@ -149,6 +150,7 @@ Words that you don't know in your study or work.
 | popover | n. 空心（酥脆）松饼，膨松饼 | |
 | pattern | n. 模式；图案；样品 vt. 模仿；以图案装饰 vi. 形成图案 | |
 | perform | vt. 执行；完成；演奏 vi. 执行，机器运转；表演 | |
+| prompt | v. 提示，鼓励；促进；激起；导致；（给演员）提白 adj. 敏捷的，迅速的；立刻的，及时的；准时的；（商品）即期要送的 n. 提示，提词；（电脑屏幕上的）提示符；鼓励；催促；付款期限 adv. 准时地 | |
 
 ## Q
 
@@ -162,6 +164,7 @@ Words that you don't know in your study or work.
 | ---- | ---- | ----|
 | residence | n. 住宅，住处；居住 | |
 | reduce | vt.减少;降低;使处于;把...分解 vi.减少; 缩小; 归纳为 | |
+| recognize | vt. 认出，识别；承认；接受，认可；赞赏 vi. 确认，承认；具结 | |
 
 ## S
 
@@ -185,6 +188,7 @@ Words that you don't know in your study or work.
 | ---- | ---- | ----|
 | textual | adj.本文的; 按原文的 |  |
 | target | n. 目标，指标；（攻击的）对象；靶子 v. 把……作为目标；面向，对准（某群体）| |
+| tapped | adj.抽头的; 分接的; 发接触音的; v.发掘(tap的过去分词); 拔出 | |
 
 ## U
 
