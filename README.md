@@ -11,6 +11,7 @@ Words that you don't know in your study or work.
 | associated | adj. 关联的；联合的 v. 联系（associate的过去式和过去分词）| |
 | automatically | adv. 自动地; 机械地; 无意识地; adj. 不经思索的 | |
 |	assigning | v. 分配,分派(工作); 指定; 委派; 确定(价值、时间等); 把......归因于; 转让 | |
+| abstract | adj. 纯理论的；抽象的；抽象派的 n. 摘要；抽象；抽象的概念；抽象派艺术作品 v. 摘要；提取；抽象化；退出；转移；使心不在焉 | |
 
 ## B
 
@@ -35,6 +36,7 @@ Words that you don't know in your study or work.
 | crash | v. 碰撞；（使）坠毁；（使）摔碎；使发出巨响；（金融企业等）破产；（机器、系统等）崩溃；（比赛中）惨败；（在临时安排的地方）入睡；心脏停止跳动；擅自闯入 n. （交通工具）坠毁；碰撞声；暴跌；（机器、系统的）崩溃；睡觉；粗棉布 adj. 应急的，速成的 adv. 哗啦一声地 |  |
 | coerced | 强制，强迫，胁迫，迫使（coerce的过去式和过去分词） |  |
 | configuration | n. 配置；结构；外形 | |
+| customization | n. 定制；[计] 用户化；客制化服务 | |
 
 
 ## D
@@ -51,7 +53,7 @@ Words that you don't know in your study or work.
 | dice | n. 骰子;掷骰游戏;小块食物 v. 将（食物等）切成丁;掷骰子;（非正式）拒绝 | |
 | drag | v. 拖拉，拖曳；硬拉硬拽；强迫；勉强；拖着 （受伤的脚或腿） 行走；缓慢而吃力地行进；拖累；拖沓；（用网或钩）在水中搜寻；（用鼠标）拖动；（某物）拖地；疲惫地去某处；抓；（船）拖动（锚）；（船）走锚n. 拖；拖累；阻碍；讨厌的事；吸入一口烟；（喜剧演员）男扮女装；（作用于行进中的飞行器或车辆的）空气阻力；（横穿城镇的）主干道 |
 | dash | n. 猛冲；匆忙；少量，些许；破折号；短跑；气魄；（莫尔斯电码中的）长划；断奏符；（汽车的）仪表板；炫耀 v. 猛冲；猛撞，猛击；赶紧离开；（使）破灭，气馁；泼溅 int. 该死的；讨厌 | |
-
+| declaration | n. （纳税品等的）申报；宣布；公告；申诉书 | |
 
 ## E
 
@@ -95,6 +97,8 @@ Words that you don't know in your study or work.
 | instead | adv. 代替；反而；相反 | |
 | interpolation | n. 插入；篡改；填写；插值 | |
 | intersection | n. 交叉；十字路口；交集；交叉点 | |
+| instance | n. 实例；情况；建议 vt. 举...为例 | |
+| identifiable | adj. 可辨认的；可认明的；可证明是同一的 | |
 
 
 ## J
@@ -114,6 +118,8 @@ Words that you don't know in your study or work.
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
 | ladder | n. 阶梯；途径；梯状物 vi. 成名；发迹 vt. 在……上装设梯子 |  |
+| launch | v. 发射（导弹、火箭等）；发起，发动；使……下水；开始；起飞 n. 发射；发行，投放市场；下水；汽艇 | |
+| lifecycle | n. 生活周期；生活过程；生命循环 | |
 
 ## M
 
@@ -134,6 +140,8 @@ Words that you don't know in your study or work.
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
 | overlay | v. 覆在……上面（overlie 的过去式）；覆盖，铺；（尤指以感情或品质）撒满；（声音）盖过 n. 套图透明膜；覆盖图；覆盖物，涂层；覆盖；附加的特性 | |
+| overview | n. [图情] 综述；概观 | |
+| override | vt. 推翻；不顾；践踏 n. 代理佣金 | |
 
 ## P
 
@@ -165,6 +173,8 @@ Words that you don't know in your study or work.
 | residence | n. 住宅，住处；居住 | |
 | reduce | vt.减少;降低;使处于;把...分解 vi.减少; 缩小; 归纳为 | |
 | recognize | vt. 认出，识别；承认；接受，认可；赞赏 vi. 确认，承认；具结 | |
+| respond | vi. 回答；作出反应；承担责任 vt. 以…回答 n. 应答；唱和 | |
+
 
 ## S
 
@@ -181,6 +191,8 @@ Words that you don't know in your study or work.
 | specified | adj. 规定的；详细说明的 | |
 | symmetric | adj. 对称的；匀称的 | |
 | subtracting | 减法 | |
+| scene | n. 场面；情景；景象；事件 | |
+| session | n. 会议；（法庭的）开庭；（议会等的）开会；学期；讲习会 | |
 
 ## T
 
