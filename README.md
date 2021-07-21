@@ -20,6 +20,7 @@ Words that you don't know in your study or work.
 | base | n. 基底；基础；基地；基本成分；碱；（晶体管的）基极；词根；（数系的）基数；（棒球）垒 adj. 卑鄙的；低劣的 v. 以……作基础；将……的活动中心设在某地 | |
 | binary | adj. [数] 二进制的；二元的，二态的 | |
 | bubble | n. 气泡，泡沫，泡状物；透明圆形罩，圆形顶 vi. 沸腾，冒泡；发出气泡声 vt. 使冒泡；滔滔不绝地说 | |
+| binding | n. 装订；捆绑；粘合物 adj. 有约束力的；捆绑的 v. 捆绑（bind的ing形式）| |
 
 ## C
 
@@ -37,7 +38,7 @@ Words that you don't know in your study or work.
 | coerced | 强制，强迫，胁迫，迫使（coerce的过去式和过去分词） |  |
 | configuration | n. 配置；结构；外形 | |
 | customization | n. 定制；[计] 用户化；客制化服务 | |
-
+| covering | n. 遮盖物，覆盖层 v. 遮盖，覆盖（cover 的现在分词） | |
 
 ## D
 
@@ -62,12 +63,15 @@ Words that you don't know in your study or work.
 | exactly | adv. 恰好地；正是；精确地；正确地 | |
 | expression | n. 表现，表示，表达；表情，脸色，态度，腔调，声调；式，符号；词句，语句，措辞，说法 | |
 | enlarge | vi. 扩大；放大；详述 vt. 扩大；使增大；扩展 | |
+| expense | n. 损失，代价；消费；开支 vt. 向……收取费用；把……记入费用账户 vi. 被花掉 | |
+| environment | n. 环境，外界 | |
 
 ## F
 
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
 | forbidden | v. 禁止；妨碍；不准（某人）做某事；禁止……进入；阻止（forbid 的过去分词）adj. 不被允许的，被禁止的；禁戒的；（场所）禁止入内的；禁止讨论的，忌讳的 |  |
+| framework | n. 框架，骨架；结构，构架 | |
 
 ## G
 
@@ -142,6 +146,9 @@ Words that you don't know in your study or work.
 | overlay | v. 覆在……上面（overlie 的过去式）；覆盖，铺；（尤指以感情或品质）撒满；（声音）盖过 n. 套图透明膜；覆盖图；覆盖物，涂层；覆盖；附加的特性 | |
 | overview | n. [图情] 综述；概观 | |
 | override | vt. 推翻；不顾；践踏 n. 代理佣金 | |
+| observed | adj. 观察的；观测的 v. 观察；遵守；注意到；庆祝（observe的过去分词形式）| |
+
+
 
 ## P
 
@@ -159,6 +166,8 @@ Words that you don't know in your study or work.
 | pattern | n. 模式；图案；样品 vt. 模仿；以图案装饰 vi. 形成图案 | |
 | perform | vt. 执行；完成；演奏 vi. 执行，机器运转；表演 | |
 | prompt | v. 提示，鼓励；促进；激起；导致；（给演员）提白 adj. 敏捷的，迅速的；立刻的，及时的；准时的；（商品）即期要送的 n. 提示，提词；（电脑屏幕上的）提示符；鼓励；催促；付款期限 adv. 准时地 | |
+| posts | n. [劳经] 岗位；帖子；邮件（post的复数）；[测] 标杆 v. 公告（post的三单形式）；布置；邮寄 | |
+| property | n. 性质，性能；财产；所有权 | |
 
 ## Q
 
@@ -180,7 +189,7 @@ Words that you don't know in your study or work.
 
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
-| Specify | vt. 指定；详细说明；列举；把…列入说明书 | |
+| specify | vt. 指定；详细说明；列举；把…列入说明书 | |
 | species | n. [生物] 物种；种类 adj. 物种上的 | |
 | symbol | n. 象征；符号；标志 | |
 | snack | n. 小吃，点心；快餐；易办到的事，小事一桩 v. 吃点心（或快餐、小吃）| |
@@ -193,6 +202,8 @@ Words that you don't know in your study or work.
 | subtracting | 减法 | |
 | scene | n. 场面；情景；景象；事件 | |
 | session | n. 会议；（法庭的）开庭；（议会等的）开会；学期；讲习会 | |
+| series | n. 系列，连续；[电] 串联；级数；丛书 | |
+
 
 ## T
 
@@ -220,6 +231,7 @@ Words that you don't know in your study or work.
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
 | wise | adj. 明智的；聪明的；博学的 vt. 使知道；教导 vi. 了解 | |
+| wrapper | n. 包装材料；[包装] 包装纸；书皮 | |
 
 ## X
 
