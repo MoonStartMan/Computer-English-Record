@@ -12,6 +12,8 @@ Words that you don't know in your study or work.
 | automatically | adv. 自动地; 机械地; 无意识地; adj. 不经思索的 | |
 |	assigning | v. 分配,分派(工作); 指定; 委派; 确定(价值、时间等); 把......归因于; 转让 | |
 | abstract | adj. 纯理论的；抽象的；抽象派的 n. 摘要；抽象；抽象的概念；抽象派艺术作品 v. 摘要；提取；抽象化；退出；转移；使心不在焉 | |
+| above | prep. 超过，多于，胜过；高于；在……上面；在……之上；（因善良或诚实正直而）不至于，不屑于（做某事）；偏向于，优先于； adv. 在（或向）上面；在（或向）较高处；超过；上文，前文 adj. 前文述及的；上述的；以上 n. 上述内容，上述人员；前文 | |
+| access | n. 通道；进入；机会；使用权；探望权；（对计算机存储器的）访问；（情感）爆发；入口 v. 接近，使用；访问，存取（电脑文档） adj. （电视节目或时间等）对外公开的 | |
 
 ## B
 
@@ -103,6 +105,7 @@ Words that you don't know in your study or work.
 | intersection | n. 交叉；十字路口；交集；交叉点 | |
 | instance | n. 实例；情况；建议 vt. 举...为例 | |
 | identifiable | adj. 可辨认的；可认明的；可证明是同一的 | |
+| internal | adj. 内部的；体内的；（机构）内部的；国内的；本身的；内心的；（大学生）本校生的 n. 内脏；内部特征 | |
 
 
 ## J
@@ -168,6 +171,7 @@ Words that you don't know in your study or work.
 | prompt | v. 提示，鼓励；促进；激起；导致；（给演员）提白 adj. 敏捷的，迅速的；立刻的，及时的；准时的；（商品）即期要送的 n. 提示，提词；（电脑屏幕上的）提示符；鼓励；催促；付款期限 adv. 准时地 | |
 | posts | n. [劳经] 岗位；帖子；邮件（post的复数）；[测] 标杆 v. 公告（post的三单形式）；布置；邮寄 | |
 | property | n. 性质，性能；财产；所有权 | |
+| press | v. 压；按；逼迫；紧抱；（向……）拥挤；重压，压平；榨取；坚持；推进；征用；强征……入伍；（举重）推举；（高尔夫）过猛击球 n. 报刊杂志；榨汁机；印刷机；新闻界；出版社；按；压；拥挤的人群；（篮球）紧逼；（举重）推举；（壁柜式的）书柜；（海军的）强行征兵 n. (Press) （美、英、加、俄、印、澳）普雷斯（人名）| |
 
 ## Q
 
@@ -183,6 +187,9 @@ Words that you don't know in your study or work.
 | reduce | vt.减少;降低;使处于;把...分解 vi.减少; 缩小; 归纳为 | |
 | recognize | vt. 认出，识别；承认；接受，认可；赞赏 vi. 确认，承认；具结 | |
 | respond | vi. 回答；作出反应；承担责任 vt. 以…回答 n. 应答；唱和 | |
+| rebuild | vt. 重建；改造，重新组装；复原 vi. 重建 | |
+| respect | n. 尊敬，尊重；方面；敬意 vt. 尊敬，尊重；遵守 | |
+| reference | n. 参考，参照；涉及，提及；参考书目；介绍信；证明书 vi. 引用 vt. 引用 | |
 
 
 ## S
@@ -203,6 +210,8 @@ Words that you don't know in your study or work.
 | scene | n. 场面；情景；景象；事件 | |
 | session | n. 会议；（法庭的）开庭；（议会等的）开会；学期；讲习会 | |
 | series | n. 系列，连续；[电] 串联；级数；丛书 | |
+| screenshot | n. 屏幕截图 | |
+| straightforward | adj. 简单的；坦率的；明确的；径直的 adv. 直截了当地；坦率地 | |
 
 
 ## T
