@@ -212,6 +212,7 @@ Words that you don't know in your study or work.
 | series | n. 系列，连续；[电] 串联；级数；丛书 | |
 | screenshot | n. 屏幕截图 | |
 | straightforward | adj. 简单的；坦率的；明确的；径直的 adv. 直截了当地；坦率地 | |
+| simply | adv. 简单地；仅仅；简直；朴素地；坦白地 | |
 
 
 ## T
