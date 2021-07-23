@@ -86,7 +86,7 @@ Words that you don't know in your study or work.
 
 | 单词 | 翻译 | 备注 |
 | ---- | ---- | ----|
-| | | |
+| hue | n. 色彩；色度；色调；叫声 |  |
 
 ## I
 
