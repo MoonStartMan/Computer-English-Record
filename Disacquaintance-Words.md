@@ -14,6 +14,7 @@ Words that you don't know in your study or work.
 | abstract | adj. 纯理论的；抽象的；抽象派的 n. 摘要；抽象；抽象的概念；抽象派艺术作品 v. 摘要；提取；抽象化；退出；转移；使心不在焉 | |
 | above | prep. 超过，多于，胜过；高于；在……上面；在……之上；（因善良或诚实正直而）不至于，不屑于（做某事）；偏向于，优先于； adv. 在（或向）上面；在（或向）较高处；超过；上文，前文 adj. 前文述及的；上述的；以上 n. 上述内容，上述人员；前文 | |
 | access | n. 通道；进入；机会；使用权；探望权；（对计算机存储器的）访问；（情感）爆发；入口 v. 接近，使用；访问，存取（电脑文档） adj. （电视节目或时间等）对外公开的 | |
+| adopt | vt. 采取；接受；收养；正式通过 vi. 采取；过继 | |
 
 ## B
 
@@ -41,6 +42,7 @@ Words that you don't know in your study or work.
 | configuration | n. 配置；结构；外形 | |
 | customization | n. 定制；[计] 用户化；客制化服务 | |
 | covering | n. 遮盖物，覆盖层 v. 遮盖，覆盖（cover 的现在分词） | |
+| customize | vt. 定做，按客户具体要求制造 | |
 
 ## D
 
@@ -107,7 +109,7 @@ Words that you don't know in your study or work.
 | instance | n. 实例；情况；建议 vt. 举...为例 | |
 | identifiable | adj. 可辨认的；可认明的；可证明是同一的 | |
 | internal | adj. 内部的；体内的；（机构）内部的；国内的；本身的；内心的；（大学生）本校生的 n. 内脏；内部特征 | |
-
+| indicate | vt. 表明；指出；预示；象征 | |
 
 ## J
 
@@ -136,6 +138,7 @@ Words that you don't know in your study or work.
 | machine | n. 机械，机器；机构；机械般工作的人 vt. 用机器制造 | |
 | memberwise | n.成员;会员 | |
 | manually | adv. 手动地；用手 | |
+| modify | vt. 修改，修饰；更改 vi. 修改 | |
 
 ## N
 
@@ -215,6 +218,7 @@ Words that you don't know in your study or work.
 | straightforward | adj. 简单的；坦率的；明确的；径直的 adv. 直截了当地；坦率地 | |
 | simply | adv. 简单地；仅仅；简直；朴素地；坦白地 | |
 | specified | adj. 规定的；详细说明的 v. 指定；详细说明（specify的过去分词） | |
+| standardized | adj. 标准的；标准化的；定型的 v. 使合乎标准；按标准校准；制定标准（standardize 的过去式和过去分词） | |
 
 
 ## T
