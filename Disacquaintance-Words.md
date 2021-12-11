@@ -77,6 +77,7 @@ Words that you don't know in your study or work.
 | ---- | ---- | ----|
 | forbidden | v. 禁止；妨碍；不准（某人）做某事；禁止……进入；阻止（forbid 的过去分词）adj. 不被允许的，被禁止的；禁戒的；（场所）禁止入内的；禁止讨论的，忌讳的 |  |
 | framework | n. 框架，骨架；结构，构架 | |
+| format | n. 总体安排，计划，设计；（书或杂志的）开本，版式；（录像、激光唱片、磁带等的）格式 v. 为……编排格式；格式化 | |
 
 ## G
 
@@ -176,6 +177,7 @@ Words that you don't know in your study or work.
 | posts | n. [劳经] 岗位；帖子；邮件（post的复数）；[测] 标杆 v. 公告（post的三单形式）；布置；邮寄 | |
 | property | n. 性质，性能；财产；所有权 | |
 | press | v. 压；按；逼迫；紧抱；（向……）拥挤；重压，压平；榨取；坚持；推进；征用；强征……入伍；（举重）推举；（高尔夫）过猛击球 n. 报刊杂志；榨汁机；印刷机；新闻界；出版社；按；压；拥挤的人群；（篮球）紧逼；（举重）推举；（壁柜式的）书柜；（海军的）强行征兵 n. (Press) （美、英、加、俄、印、澳）普雷斯（人名）| |
+| parse | vt. 解析； vi. 理解；| |
 
 ## Q
 
@@ -241,6 +243,7 @@ Words that you don't know in your study or work.
 | ---- | ---- | ----|
 | Visually | adv. 形象化地；外表上；看得见地 | |
 | vending | n. 销售 | |
+| validation | | n. 验证；确认，批准，生效；肯定，认可 | |
 
 ## W
 
