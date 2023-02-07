@@ -25,6 +25,7 @@ Keep a record of English phrases
 | 短语 | 翻译 | 备注 |
 | ---- | ---- | ----|
 | depend on | 取决于；依赖；依靠 | |
+| drop-in replacement | 简易替换器件 | |
 
 ## E
 

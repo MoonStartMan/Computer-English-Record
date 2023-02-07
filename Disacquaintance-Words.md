@@ -60,6 +60,7 @@ Words that you don't know in your study or work.
 | dash | n. 猛冲；匆忙；少量，些许；破折号；短跑；气魄；（莫尔斯电码中的）长划；断奏符；（汽车的）仪表板；炫耀 v. 猛冲；猛撞，猛击；赶紧离开；（使）破灭，气馁；泼溅 int. 该死的；讨厌 | |
 | declaration | n. （纳税品等的）申报；宣布；公告；申诉书 | |
 | directly | adv. 直接地；立即；马上；正好地；坦率地 conj. 一…就 | |
+| desired | adj. 期望得到的，希望实现的; v.渴望，想望; | |
 
 ## E
 
@@ -78,6 +79,7 @@ Words that you don't know in your study or work.
 | forbidden | v. 禁止；妨碍；不准（某人）做某事；禁止……进入；阻止（forbid 的过去分词）adj. 不被允许的，被禁止的；禁戒的；（场所）禁止入内的；禁止讨论的，忌讳的 |  |
 | framework | n. 框架，骨架；结构，构架 | |
 | format | n. 总体安排，计划，设计；（书或杂志的）开本，版式；（录像、激光唱片、磁带等的）格式 v. 为……编排格式；格式化 | |
+| features | n. 产品特点，特征；容貌；嘴脸 v. 是……的特色，使突出 | |
 
 ## G
 
@@ -196,6 +198,7 @@ Words that you don't know in your study or work.
 | rebuild | vt. 重建；改造，重新组装；复原 vi. 重建 | |
 | respect | n. 尊敬，尊重；方面；敬意 vt. 尊敬，尊重；遵守 | |
 | reference | n. 参考，参照；涉及，提及；参考书目；介绍信；证明书 vi. 引用 vt. 引用 | |
+| replacement | n. 代替，更换；取代（或代替）的人（或物）| |
 
 
 ## S
@@ -230,6 +233,7 @@ Words that you don't know in your study or work.
 | textual | adj.本文的; 按原文的 |  |
 | target | n. 目标，指标；（攻击的）对象；靶子 v. 把……作为目标；面向，对准（某群体）| |
 | tapped | adj.抽头的; 分接的; 发接触音的; v.发掘(tap的过去分词); 拔出 | |
+| trim | v.修剪，修整；削减，减少；修饰，点缀; n. 修剪；额外装饰，边饰，点缀物；adj. 整齐的，整洁美观的 | |
 
 ## U
 
